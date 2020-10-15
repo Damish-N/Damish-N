@@ -1,4 +1,4 @@
-###  Hi there, I'm Damish 👋👋👋
+###  Hi there, I'm Damish $$$$👋👋👋
 
 - 🔭 I’m currently working on Care-U App
 - 🌱 I’m currently learning ...
