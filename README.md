@@ -26,4 +26,5 @@ You can find me on [![Twitter][1.2]][1],  on [![LinkedIn][3.2]][3]  or   [![Face
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/DamishNisal
-[2]: https://www.facebook.com/profile.php?id=100006323671319
+[2]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
+[3]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
