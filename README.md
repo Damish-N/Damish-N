@@ -14,15 +14,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damish-N&repo=Care-U-App" />
 </a>
 
-<!-- Actual text -->
-
-You can find me on [![twitter][1.1]][1]  or   [![Facebook][2.1]][2]
-
-[1.2]: https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20without%20padding/twitter.png
-[2.2]: https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20without%20padding/facebook.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/DamishNisal
-[2]: https://www.facebook.com/profile.php?id=100006323671319
-
