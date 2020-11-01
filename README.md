@@ -18,6 +18,8 @@
 
 You can find me on [![twitter][1.1]][1]  or   [![Facebook][2.1]][2]
 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 
 <!-- Links to your social media accounts -->
 
