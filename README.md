@@ -16,15 +16,14 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1],  on [![LinkedIn][3.2]][3]  or   [![Facebook][3.2]][3]
+You can find me on [![twitter][1.1]][1]  or   [![Facebook][2.1]][2]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2.2]: https://cdn2.iconfinder.com/data/icons/font-awesome/1792/facebook-official-512.png
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/DamishNisal
-[2]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
-[3]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
+[2]: https://www.facebook.com/profile.php?id=100006323671319
+
