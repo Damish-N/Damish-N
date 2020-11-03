@@ -14,12 +14,9 @@
   <img float="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LManjitha&layout=compact" />
 
 </details>
-details>
-  <summary>:zap:stats/summary>
-  <img float="left" alt="Manjitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LManjitha&show_icons=true&hide_border=true" />
-  <img float="left"  src="https://github-readme-stats.vercel.app/api?username=Damish-N&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-</details>
+<img float="left"  src="https://github-readme-stats.vercel.app/api?username=Damish-N&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
