@@ -9,8 +9,6 @@
 
 
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
 </br>
@@ -21,17 +19,17 @@
 
 </details>
 details>
-  <summary>stats/summary>
+  <summary>:zap:stats/summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Damish-N&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 </details>
 
-
-
 <a href="https://github.com/Damish-N/Care-U-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damish-N&repo=Care-U-App" />
 </a>
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/DamishNisal
 [linkedin]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
