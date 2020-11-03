@@ -20,6 +20,8 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</br>
+</br>
 <a href="https://github.com/Damish-N/Care-U-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damish-N&repo=Care-U-App" />
 </a>
