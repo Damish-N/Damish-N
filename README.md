@@ -10,7 +10,7 @@
 
 <details>
   <summary>:zap: Most used languages</summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-N&theme=tokyonight)
+ <img float="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-N&layout=compact" />
   
 
 </details>
