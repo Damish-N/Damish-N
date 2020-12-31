@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Damish-N&repo=Care-U-App" />
 </a>
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Damish-N)
 
 
 [twitter]: https://twitter.com/DamishNisal
