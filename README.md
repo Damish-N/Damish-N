@@ -10,8 +10,8 @@
 
 <details>
   <summary>:zap: Most used languages</summary>
-
-  <img float="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LManjitha&layout=compact" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-N&theme=tokyonight)
+  
 
 </details>
 
@@ -27,7 +27,7 @@
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Damish-N)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-N&theme=tokyonight)
+
 
 [twitter]: https://twitter.com/DamishNisal
 [linkedin]: https://www.linkedin.com/in/damish-nisal-48b5a9180/
