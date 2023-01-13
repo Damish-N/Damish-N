@@ -1,7 +1,7 @@
 
 # Hi there, I'm Damish $$$$! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on Care-U App
+- 🔭 I’m currently working on SPGinie
 - 🌱 I’m currently learning ...
 - 📫 How to reach me:
 - 😄 Pronouns: DAMII
